@@ -1,15 +1,15 @@
 ## Hi there 👋
-<div align="center">
+<!-- <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=217BF7&width=435&lines=Learning+FullStack+Web+Development;Learning+DSA+using+CPP)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=217BF7&width=435&lines=Learning+FullStack+Web+Development;Learning+DSA+using+CPP)](https://git.io/typing-svg) -->
 
   
   
   <b>I'm Rajveer</b>, a passionate beginner in web development, actively learning and building my skills.
-  
+<!--   
   <br><br>
   
-</div>
+</div> -->
 
 - 🔭 I’m currently working on: Projects and assignments as part of my web development learning journey.
 - 🌱 I’m currently learning: Full stack web development, as well as Data Structures and Algorithms (DSA).
