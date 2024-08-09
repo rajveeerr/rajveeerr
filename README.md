@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Rajveer, a passionate beginner in web developm
 - 👯 I’m looking to collaborate on: Beginner-friendly web development projects and open-source contributions.
 - 🤔 I’m looking for help with: Improving my coding skills, especially in JavaScript and DSA.
 - 💬 Ask me about: Web development basics, learning resources, and competitive programming.
-- 📫 How to reach me: [Your Email](mailto:rajveergreets@gmail.com)
+- 📫 How to reach me: [Email](mailto:rajveergreets@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving coding challenges on Codeforces in my free time!
 
