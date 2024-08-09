@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 Sure! Here’s a filled-out version for your GitHub profile README:
 
----
+--->
 
 Welcome to my GitHub profile! I'm Rajveer, a passionate beginner in web development, actively learning and building my skills.
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Rajveer, a passionate beginner in web developm
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving coding challenges on Codeforces in my free time!
 
----
+<!---
 
 Feel free to customize this further to better reflect your personal style and current activities!
 -->
