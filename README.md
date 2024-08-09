@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+learning;Node Js+React+of+text)](https://git.io/typing-svg)
 <!--
 **rajveeerr/rajveeerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
