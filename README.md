@@ -7,7 +7,7 @@
 
   
   
-  <b>I'm Rajveer</b>, a passionate beginner in web development, actively learning and building my skills.
+  A passionate beginner in web development, actively learning and building my skills.
 <!--   
   <br><br>
   
