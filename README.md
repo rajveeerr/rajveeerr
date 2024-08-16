@@ -1,5 +1,5 @@
 
-## Hi there https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif![image](https://github.com/user-attachments/assets/345d7d88-2d6c-4cd8-8a73-52b111848267) I'm Rajveer Singh
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> I'm Rajveer Singh
 
 <!-- <div align="center">
   
