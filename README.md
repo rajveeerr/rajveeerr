@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif![image](https://github.com/user-attachments/assets/345d7d88-2d6c-4cd8-8a73-52b111848267) I'm Rajveer Singh
+
 <!-- <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=217BF7&width=435&lines=Learning+FullStack+Web+Development;Learning+DSA+using+CPP)](https://git.io/typing-svg) -->
