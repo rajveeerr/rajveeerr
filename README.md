@@ -7,7 +7,7 @@
 
   
   
-  A passionate beginner in web development, actively learning and building my skills.
+  Actively learning and building my skills.
 <!--   
   <br><br>
   
