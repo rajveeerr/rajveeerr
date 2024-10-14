@@ -51,6 +51,8 @@ const rajveer = {
 }
 ```
 
+[![An image of @rajveeerr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajveeerr)](https://holopin.io/@rajveeerr)
+
 <!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
