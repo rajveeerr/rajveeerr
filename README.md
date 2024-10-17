@@ -20,7 +20,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,github,figma,vscode,postman&perline=8">
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,github,figma,vscode,postman,cpp,python&perline=8">
 </p>
 <!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Some Stats
