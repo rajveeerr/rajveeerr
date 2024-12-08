@@ -30,7 +30,7 @@
 | <img src="https://github-readme-streak-stats.herokuapp.com?user=rajveeerr&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=rajveeerr&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
 -->
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/rajveeerr/terminal-effect-readme/bd38059538c3fb742de4e64f5a2cf2d82b330238/github_stats.svg?token=BKF7TLONAANSUBVIF476F63HKXQ4M">
+<img align="center" src="https://github.com/rajveeerr/terminal-effect-readme/blob/master/github_stats.svg">
 </p>
 
 <!---
