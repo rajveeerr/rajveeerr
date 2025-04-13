@@ -7,7 +7,7 @@
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
   - ⚡  Up for freelance work<br>
-  - 📚  I’m currently learning everything about React.<br>
+  - 📚  I’m currently learning everything about Next.<br>
   - 💪🏼  Future Goals: Learn more technologies and never stop creating new ideas.<br>
   - 📫 Reach me through <a href="mailto:rajveergreets@gmail.com">Email</a>.<br>
 </em></p>
@@ -31,6 +31,10 @@
 -->
 <p align="center">
 <img align="center" src="https://github.com/rajveeerr/terminal-effect-readme/blob/master/github_stats.svg">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajveeerr&theme=dark" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=rajveeerr&theme=dark" alt="GitHub Streak" /> -->
+  
 </p>
 
 <!---
