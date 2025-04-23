@@ -13,6 +13,7 @@
 </em></p>
 
 ![](https://komarev.com/ghpvc/?username=rajveeerr&color=blueviolet&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/8859c246-d072-45e1-a9d2-ad127b0b7ba5.svg)](https://wakatime.com/@8859c246-d072-45e1-a9d2-ad127b0b7ba5)
 [![Twitter: Rajveer](https://img.shields.io/twitter/follow/rajveeerrsingh?style=social)](https://twitter.com/rajveeerrsingh) 
 [![Linkedin: Rajveer Singh](https://img.shields.io/badge/-Rajveer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajveeerr/)](https://www.linkedin.com/in/rajveeerr/)
 [![GitHub Rajveer](https://img.shields.io/github/followers/rajveeerr?label=follow&style=social)](https://github.com/rajveeerr)
