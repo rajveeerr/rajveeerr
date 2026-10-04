@@ -1,79 +1,57 @@
-
 ![cool](https://i.postimg.cc/C5Fr46j7/photo-2023-11-08-23-47-03.jpg)
 
-# Hi, I'm Rajveer Singh! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
-<!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwzbjFkcXZsOXBjdW1iemRmNWhoZ3FxcmttNmt1ZHF4OXg4cXMwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" style="border-radius: 50%;">-->
+# Hi, I'm Rajveer Singh! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="" width="40" height="40" />
 
-<p><em> 
-  - 👨‍💻  I’m a MERN Stack Web Developer<br>
-  - ⚡  Up for freelance work<br>
-  - 📚  I’m currently learning everything about Next.<br>
-  - 💪🏼  Future Goals: Learn more technologies and never stop creating new ideas.<br>
-  - 📫 Reach me through <a href="mailto:rajveergreets@gmail.com">Email</a>.<br>
-</em></p>
+Software engineer in New Delhi, building AI products end to end: the interface people touch, the backend and realtime underneath, and the infrastructure that keeps it up.
 
-![](https://komarev.com/ghpvc/?username=rajveeerr&color=blueviolet&style=flat-square)
+At [IABTM](https://iambetterthanme.com), a US self-improvement platform, I rebuilt the live voice rooms on an SFU and the Stripe billing, and built the AI pipeline that picks what members read each morning. That code lives in private repos and is committed from the company's account, so it doesn't show on the graph below. The write-up, with the architecture, is [on my site](https://rajveers.com/projects/iabtm).
+
+![Profile views](https://komarev.com/ghpvc/?username=rajveeerr&color=blueviolet&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/8859c246-d072-45e1-a9d2-ad127b0b7ba5.svg)](https://wakatime.com/@8859c246-d072-45e1-a9d2-ad127b0b7ba5)
 [![Website: rajveers.com](https://img.shields.io/badge/Website-rajveers.com-black?style=flat-square&logo=googlechrome&logoColor=white)](https://rajveers.com)
-[![Twitter: Rajveer](https://img.shields.io/twitter/follow/rajveeerrsingh?style=social)](https://twitter.com/rajveeerrsingh) 
-[![Linkedin: Rajveer Singh](https://img.shields.io/badge/-Rajveer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajveeerr/)](https://www.linkedin.com/in/rajveeerr/)
-[![GitHub Rajveer](https://img.shields.io/github/followers/rajveeerr?label=follow&style=social)](https://github.com/rajveeerr)
+[![X: RajveeerrSingh](https://img.shields.io/twitter/follow/RajveeerrSingh?style=social)](https://x.com/RajveeerrSingh)
+[![LinkedIn: Rajveer Singh](https://img.shields.io/badge/-Rajveer-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajveeerr/)
+[![GitHub followers](https://img.shields.io/github/followers/rajveeerr?label=follow&style=social)](https://github.com/rajveeerr)
 
+## <img src="wall/pushpin.webp" alt="" width="28" height="28" /> Things I've built
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
-<p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,github,figma,vscode,postman,cpp,python&perline=8">
-</p>
+| Project | What it is |
+|---|---|
+| **[HyperPersona](https://rajveers.com/projects/hyperpersona)** | An agentic personalisation engine on AWS Bedrock that learns why a shopper buys. Cognizant Technoverse 2.0 finalist, top 24 of 5,600+ teams. [Code](https://github.com/rajveeerr/Hyperpersona) |
+| **[Safire](https://rajveers.com/projects/safire)** | A harassment shield for LinkedIn DMs, first at HackWIE 3.0 and Code Kshetra 2.0. I built the backend: the API, moderation that fails over, and PDF evidence reports. [Code](https://github.com/rajveeerr/Safire) |
+| **[Kernel](https://rajveers.com/projects/kernel)** | Anonymous chat rooms with peer-to-peer voice, where the server only relays the WebRTC handshake. [Code](https://github.com/rajveeerr/Kernel) |
+| **[10xAnswers](https://rajveers.com/projects/10xanswers)** | A drop-in React chat widget that answers your visitors with AI, 13,000+ downloads on [npm](https://www.npmjs.com/package/10xanswers). [Code](https://github.com/rajveeerr/10xAnswers) |
+| **[The AI me](https://rajveers.com/projects/ai-me)** | An AI version of me on my site that answers for my work, shows its sources and runs evals every night. |
+| **[IEEE MSIT](https://ieeemsit.vercel.app)** | The chapter's website, kept current by a bot that turns its Instagram posts into events. [Code](https://github.com/IEEE-MSIT/website) |
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Stats
 <!--
-| 🔥 Streak | 📊 Stats |
-| --- | --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=rajveeerr&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=rajveeerr&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
+## How some of it works
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://rajveers.com/projects/iabtm"><img src="wall/arch-iabtm.webp" alt="IABTM architecture: browser to nginx, then a Next.js client and an Express API with Socket.IO, a mediasoup SFU and seven leased jobs on one EC2 box under PM2; MongoDB Atlas and Redis below; Stripe, Shopify, Resend, Gemini and PostHog beside it; CloudFront and S3 for media; TURN for WebRTC"></a><br><sub><b>IABTM.</b> One EC2 box under PM2. The API stays one worker on purpose: audio rooms hold their state in the process, so realtime moves to its own machine next, not more workers.</sub></td>
+<td width="50%" valign="top"><a href="https://rajveers.com/projects/hyperpersona"><img src="wall/arch-hyperpersona.webp" alt="HyperPersona architecture: storefront to event SDK to a FastAPI ingest API, then workers, agents on Bedrock, OpenSearch Serverless and a recommender that sends offers back to the storefront"></a><br><sub><b>HyperPersona.</b> In colour, what I built: everything the browser sends is queued before it's sent, scoped by consent before it's stored, and filtered before a model sees it.</sub></td>
+</tr>
+</table>
 -->
+
+## <img src="wall/binderclip.webp" alt="" width="26" height="28" /> Some of the interfaces I've built
+
 <p align="center">
-<img align="center" src="https://github.com/rajveeerr/terminal-effect-readme/blob/master/github_stats.svg">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajveeerr&theme=dark" alt="GitHub Streak" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=rajveeerr&theme=dark" alt="GitHub Streak" /> -->
-  
+<a href="https://rajveers.com/projects"><img src="wall/interfaces.webp" alt="A scattered wall of interfaces I have built: IABTM, Modulus, Wii Hop, Safire, 10xAnswers, HyperPersona, Kernel, Atmosonic, PokéDecks and more"></a>
+<br>
+<sub><a href="https://rajveers.com/projects">See them all on my site</a></sub>
 </p>
 
-<!---
-## A little more about me...  
+## <img src="wall/cursor.webp" alt="" width="20" height="30" /> Languages and tools
 
-```javascript
-const rajveer = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Node.js, React, Express, MongoDB],
-  tools: [VSCode, Git, Postman, Bootstrap, Figma, Axios, TailwindCSS],
-  architecture: ["REST APIs""],
-  techCommunities: {
-                        mentor: "GSSOC",
-                        hactoberfest: "Contributor
-                      },
-  skills: {
-    uiux: "Proficient in UI/UX design principles, creating responsive and accessible applications."
-  },
-  loves: "Open-Source"
-}
-```-->
-
-[![An image of @rajveeerr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajveeerr)](https://holopin.io/@rajveeerr)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,prisma,redis,aws,cloudflare,docker,nginx,githubactions,tailwind,vercel,git,linux,bun&perline=11" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Prisma, Redis, AWS, Cloudflare, Docker, nginx, GitHub Actions, Tailwind CSS, Vercel, Git, Linux, Bun" />
+<br>
+<sub>Also WebRTC (mediasoup), Socket.IO, Stripe, React Native (Expo), and generative AI: agents, RAG, tool calling and evals.</sub>
+</p>
 
 <!--
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
-
-| Project | Description | Features | Tech Stacks | Deploy Link | GitHub Link |
-| --- | --- | --- | --- | --- | --- |
-| **Atmosonic** | A weather-based music player that suggests songs based on the user's current weather conditions. | Weather-based music recommendations, Spotify API integration | HTML, CSS, JavaScript, OpenWeatherMap API, Spotify Web API | [Live Demo](atmosonic.netlify.app) | [GitHub](https://github.com/rajveeerr/Atmosonic) |
-| **Balanz.io** | A task management app designed to help users manage tasks and achieve work-life balance. | User authentication, drag-and-drop tasks, task categories, priority settings, syncing | React, Express, Node.js, MongoDB | [Live Demo](https://balanz-io-01.onrender.com/) | [GitHub](https://github.com/rajveeerr/Balanz.io) |
-| **CLI ToDo App** | A command-line interface app for managing ToDo tasks. | CRUD operations, multiple users, JSON-based data storage | Node.js, Chalk | N/A | [GitHub](https://github.com/rajveeerr/CLI-Todo)
-| **CodeCraft** | A simple web-based code editor to help developers practice coding. | Syntax highlighting, multiple language support | HTML, CSS, JavaScript | [Live Demo](https://codecraft-code-editor.netlify.app) | [GitHub](https://github.com/rajveeerr/CodeCraft) |
-| **PokéDecks** | A responsive Pokémon display website fetching data from PokeAPI. | Pokémon cards display, responsive design | HTML, CSS, JavaScript, PokeAPI | [Live Demo](https://pokedecks-pokemon-finder.netlify.app/) | [GitHub](https://github.com/rajveeerr/PokeDecks) |
-<!--
-1. [Atmosonic - Weather-based Music Player](https://atmosonic.vercel.app/) - A music player that recommends songs based on the weather of your location.
- 2. [Pokémon Display Website](https://pokemondisplay.vercel.app/) - A responsive app to display and explore Pokémon cards using the PokeAPI.
- 3. [Balanz.io - Task Management System](https://balanz.io/) - Task manager with drag-and-drop functionality, cross-platform syncing, and a minimal UI.
-
+Commits terminal: it loads from rajveeerr/terminal-effect-readme, which is private, so it shows as a broken image to visitors. Make that repo public to bring it back.
+<p align="center"><img src="https://github.com/rajveeerr/terminal-effect-readme/blob/master/github_stats.svg"></p>
 -->
